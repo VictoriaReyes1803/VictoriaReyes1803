@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Victoria Reyes</h1>
 <h3 align="center">A dedicated programmer from Torreón, Coahuila, Mexico, with a love for creating innovative technological solutions.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriareyes1803&label=Profile%20views&color=0e75b6&style=flat" alt="victoriareyes1803" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victoriareyes1803" alt="victoriareyes1803" /></a> </p>
+
 - 🔭 I’m currently working on [MyLittleAssistant](https://github.com/dabidgmz/MyLittleAssistant)
 
 - 🌱 I’m currently learning **Software Development**
@@ -8,10 +12,6 @@
 - 📝 I regularly write articles on [reyedvictoria1803@gmail.com](reyedvictoria1803@gmail.com)
 
 - 💬 Ask me about **php, Laravel, Android, Arduino**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
