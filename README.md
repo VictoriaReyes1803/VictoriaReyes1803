@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/victoriareyes1803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="victoriareyes1803" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/blanca victoria jaime reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blanca victoria jaime reyes" height="30" width="40" /></a>
-<a href="https://fb.com/victoria reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victoria reyes" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/blanca-victoria-jaime-reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blanca victoria jaime reyes" height="30" width="40" /></a>
+<a href="https://www.facebook.com/victoria.reyes.Bl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victoria reyes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
