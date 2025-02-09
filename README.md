@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 📝 I regularly write articles on [reyedvictoria1803@gmail.com](reyedvictoria1803@gmail.com)
-
 - 💬 Ask me about **php, Laravel, Android, Arduino, Angular, Javascript**
 
 <h3 align="left">Connect with me:</h3>
