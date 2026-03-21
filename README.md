@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victoria Reyes</h1>
 <h3 align="center">A dedicated programmer from Torreón, Coahuila, Mexico, with a love for creating innovative technological solutions.</h3>
 
-- 🔭 I’m currently working on [SPCM](https://github.com/VictoriaReyes1803/SPCM.git)
+- 🔭 I’m currently working on MagpieInBlue
 
 - 🌱 I’m currently learning **Software Development**
 
