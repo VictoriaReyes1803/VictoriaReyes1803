@@ -3,13 +3,6 @@
 <h3 align="center">
 Software Engineer (Backend & Data Focus) from Torreón, Coahuila, México 🇲🇽
 </h3>
-
-<p align="center">
-<img src="https://img.freepik.com/premium-photo/female-programmer-working-computer-dark-office-code-screen_1028938-31910.jpg" width="400" />
-</p>
-
-<h2 align="center">Blanca Victoria Jaime Reyes</h2>
-
 ---
 
 ## 👩‍💻 About Me
