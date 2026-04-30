@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Blanca Victoria Jaime Reyes</h1>
-  <h3>Backend Engineer &nbsp;·&nbsp; Data Engineering &nbsp;·&nbsp; Systems Design</h3>
+  <h3>Backend Engineer &nbsp;·&nbsp; Data Engineering &nbsp;·&nbsp;</h3>
 </div>
 
 <br/>
