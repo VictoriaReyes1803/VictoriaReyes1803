@@ -1,98 +1,119 @@
-<h1 align="center">Hi 👋, I'm Blanca Victoria Jaime Reyes</h1>
-<h3 align="center">Software Engineer · Backend & Data Focus</h3>
+<div align="center">
+  <img src="./assets/victoria-tech-banner.png" width="100%" alt="Victoria Reyes — Backend & Data Engineer" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h1>Blanca Victoria Jaime Reyes</h1>
+  <h3>Backend Engineer &nbsp;·&nbsp; Data Engineering &nbsp;·&nbsp; Systems Design</h3>
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="./assets/victoria-tech-banner.png" alt="Victoria Reyes Tech Banner" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/VictoriaReyes1803">
-    <img src="https://img.shields.io/badge/GitHub-VictoriaReyes1803-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/blanca-victoria-jaime-reyes/">
-    <img src="https://img.shields.io/badge/LinkedIn-Blanca%20Victoria%20Jaime%20Reyes-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <a href="https://github.com/VictoriaReyes1803">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
   <a href="https://dev.to/victoriareyes1803">
-    <img src="https://img.shields.io/badge/Dev.to-victoriareyes1803-0A0A0A?style=for-the-badge&logo=devdotto" />
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://www.facebook.com/victoria.reyes.Bl">
-    <img src="https://img.shields.io/badge/Facebook-Victoria%20Reyes-1877F2?style=for-the-badge&logo=facebook" />
-  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Remote-00C896?style=for-the-badge&logoColor=white" alt="Open to Remote" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=VictoriaReyes1803&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-- 🎓 **Software Engineer**
-- 💼 Fullstack Engineer with strong focus on **Backend, Data Engineering, and Systems Integration**
-- ⚙️ I enjoy building **APIs, scalable systems, data flows, and multi-tenant platforms**
-- 🌎 Open to **remote opportunities**
-- 🇲🇽 Based in **Torreón, Coahuila, México**
+Backend & Data Engineer with a focus on **scalable APIs, data pipelines, and multi-tenant platforms**. I design systems that balance performance with maintainability — working across the full backend stack from schema design to infrastructure layer.
+
+Experienced across Node.js, Python, .NET, and PHP ecosystems. Comfortable with relational and document databases, cloud infrastructure, and ETL processes. I approach engineering problems by understanding the business first, then building the simplest system that holds under load.
+
+**Currently open to remote backend and data engineering roles** (US / EU / LATAM).
 
 ---
 
-## 🚀 Tech Stack
+## Core Expertise
 
-### Backend & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,nextjs,laravel,php,python,django,flask,cs,dotnet,postgres,mongodb,supabase" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,vite,js,html,css" />
-</p>
-
-### Tools & Infra
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,aws,linux,nginx,electron" />
-</p>
-
-### Mobile / Other
-<p>
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,ionic" />
+  <img src="https://img.shields.io/badge/API%20Design%20%26%20REST-7C3AED?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Modeling%20%26%20SQL-7C3AED?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20%26%20Data%20Pipelines-6D28D9?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Tenant%20Architecture-4F46E5?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Integration-4F46E5?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Architecture-3B82F6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-0EA5E9?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Optimization-0EA5E9?style=flat-square&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 What I Work On
+## Tech Stack
 
-- Backend architecture & API development
-- Data modeling & SQL
-- Multi-tenant systems
-- External API integrations
-- Data ingestion & transformation
-- Fullstack applications with strong business logic
+**Backend & Runtimes**
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,python,django,flask,cs,dotnet,php,laravel&theme=dark" />
+</p>
 
-## 🌐 Connect with Me
+**Data & Databases**
 
-<p align="left">
-  <a href="https://github.com/VictoriaReyes1803">GitHub</a> •
-  <a href="https://www.linkedin.com/in/blanca-victoria-jaime-reyes/">LinkedIn</a> •
-  <a href="https://dev.to/victoriareyes1803">Dev.to</a> •
-  <a href="https://www.facebook.com/victoria.reyes.Bl">Facebook</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase&theme=dark" />
+</p>
+
+**Infrastructure & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github&theme=dark" />
+</p>
+
+**Frontend & UI**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite,js&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## What I Build
+
+| Domain | Focus |
+|---|---|
+| **Backend Systems** | RESTful APIs, authentication & authorization flows, multi-tenant architectures, microservices |
+| **Data Engineering** | ETL/ELT pipelines, data modeling, SQL optimization, reporting and analytics layers |
+| **Integrations** | Third-party API connectors, webhooks, payment gateways, CRM and ERP systems |
+| **Infrastructure** | Containerized deployments, AWS cloud services, NGINX, CI/CD pipelines |
+| **Fullstack** | End-to-end product features with clear separation between domain logic and presentation |
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictoriaReyes1803&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaReyes1803&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictoriaReyes1803&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="170" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaReyes1803&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VictoriaReyes1803&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+  <img src="https://streak-stats.demolab.com?user=VictoriaReyes1803&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictoriaReyes1803&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%" />
 </p>
 
 ---
 
-## ✨ Quote
-
 <p align="center">
-  <i>"Code is not just what I write, it's how I solve problems, create value, and build real solutions."</i>
+  <sub><i>Building systems that scale. Writing code that lasts.</i></sub>
 </p>
